@@ -1,1 +1,9 @@
 C:\Users\Valdemart\Documents\projekt_bd\wesela\wesela\bin\Debug\wesela.exe.config
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\bin\Debug\wesela.exe.config
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\bin\Debug\wesela.exe
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\bin\Debug\wesela.pdb
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\obj\Debug\wesela.csprojResolveAssemblyReference.cache
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\obj\Debug\wesela.Properties.Resources.resources
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\obj\Debug\wesela.csproj.GenerateResource.Cache
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\obj\Debug\wesela.exe
+C:\Users\Monika\Documents\GitHub\Projekt-BD-2013-2014\wesela\wesela\obj\Debug\wesela.pdb

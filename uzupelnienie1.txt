@@ -1,0 +1,48 @@
+insert into osoby values(2,'Maria','Kowalska','K',503133053,NULL,'ul.Mickiewicza 17a, 60-812 Poznan')
+insert into osoby values(3,'Jakub','Faust','M',660987342,'misiek111@gmail.com','ul.Mickiewicza 1, 64-500 Szamotuly')
+insert into osoby values(4,'Olga','Antosz','K',512657342,'olga342@gmail.com','Karmin 57, 62-045 Pniewy')
+insert into osoby values(5,'Marcin','Nowak','M',897898333,'marcin_nowak007@gmail.com','ul.Slonecznikowa 127c, 30-213 Krakow')
+insert into osoby values(6,'Jakub','Pawel','M',501190313,'anna_nowak111@gmail.com','ul.Slowackiego 27, 60-822 Poznan')
+insert into osoby values(7,'Tomasz','','M',618723716,'tomasz.tomasz@gmail.com','ul.Smocza 17/4, 31-069 Krakow')
+insert into osoby values(8,'Katarzyna','Baran','K',513313819,'kaskasport@gmail.com','ul.Izaaka 13/2, 31-057 Krakow')
+go
+
+update osoby set nazwisko = 'Kapral' where id_osoby=7
+
+
+insert into pary_mlode values (1,1,6,30000)
+insert into pary_mlode values (2,4,3,18000)
+insert into pary_mlode values (3,2,5,NULL)
+go
+
+
+insert into prezenty values (1,'komplet sztuccow')
+insert into prezenty values (2,'zelazko')
+insert into prezenty values (3,'gotowka')
+insert into prezenty values (4,'pralka')
+insert into prezenty values (5,'ekspres do kawy')
+insert into prezenty values (6,'serwis obiadowy')
+insert into prezenty values (7,'serwis do kawy')
+insert into prezenty values (8,'telewizor')
+insert into prezenty values (9,'zestaw kina domowego')
+insert into prezenty values (10,'komplet stol + 4 krzesla')
+insert into prezenty values (11,'bon do LEROY MERLIN')
+insert into prezenty values (12,'bon do AGATA MEBLE')
+insert into prezenty values (13,'bon do IKEA')
+insert into prezenty values (14,'wycieczka z biura podrozy ITAKA')
+insert into prezenty values (15,'komplet recznikow')
+insert into prezenty values (16,'komplet poscieli')
+insert into prezenty values (17,'mieszkanie')
+insert into prezenty values (18,'samochod')
+insert into prezenty values (19,'zestaw kieliszkow')
+insert into prezenty values (20,'fotoalbum')
+insert into prezenty values (21,'czajnik elektryczny')
+insert into prezenty values (22,'2 portfele')
+
+go
+
+
+
+
+
+
