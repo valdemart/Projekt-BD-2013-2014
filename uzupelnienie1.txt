@@ -42,6 +42,31 @@ insert into prezenty values (22,'2 portfele')
 go
 
 
+insert into osoby values (9,'Mateusz','Szczesniak','M',787654456,'millenium.pniewy@gmail.com','ul.Wroniecka 17, 62-045 Pniewy')
+insert into sale values (1,120,'ul. Wroniecka 17, 62-045 Pniewy',130,9,NULL)
+
+insert into osoby values (10,'Monika','Górka','K',787666156,'zajazdmonika@poczta.onet.pl','Gorzyn 24, 64-400 Miedzychod')
+insert into osoby values (11,'Mariusz','Filipiuk','M',502236456,'restauracja@margeritta.pl','Opieszyn 1, 62-300 Wrzesnia')
+insert into osoby values (12,'Mateusz','Ot','M',504107204,'info@dworekstaropolski.com','ul.Okolna 40, 61-315 Poznan')
+insert into osoby values (13,'Weronika','Malec','K',618653448,'kontakt@villamagnolia.pl','ul.Glogowska 40, 60-736 Poznan')
+insert into osoby values (14,'Jaroslaw','Bednarczyk','M',616474747,'recepcja@euroHotel.swarzedz.pl','ul.Cieszkowskiego 33, 62-020 Swarzedz')
+insert into osoby values (15,'Malgorzata','Krawczyk','K',880635783,'oaza@strzeszynek.pl','ul.Koszalinska 15, 60-480 Poznan')
+insert into osoby values (16,'Janina','Kowalik','K',614364397,'biuro@tuttifrutti.pl','ul.Paderewskiego 50b, 62-300 Wrzesnia')
+insert into osoby values (17,'Marian','Kowalik','M',616623665,'restauracja@powozownia.pl?','ul.Lutycka 34, 60-415 Poznan')
+insert into osoby values (18,'Irena','Wicher','K',787654456,'pensjonat@zacisze.poznan.pl','ul.Grunwaldzka 471, 62-064 Plewiska')
+
+insert into sale values (2,90,'Gorzyn 24, 64-400 Miedzychod',120,10,'http://www.zajazdmonika.ovh.org')
+insert into sale values (3,100,'Opieszyn 1, 62-300 Wrzesnia',135,11,'http://www.margeritta.pl')
+insert into sale values (4,220,'ul.Okolna 40, 61-315 Poznan',180,12,'http://www.dworekstaropolski.com')
+insert into sale values (5,180,'ul.Glogowska 40, 60-736 Poznan',150,13,'http://www.villamagnolia.pl')
+insert into sale values (6,150,'ul.Cieszkowskiego 33, 62-020 Swarzedz',165,14,'http://www.eurohotel.swarzedz.pl/pl/')
+insert into sale values (7,120,'ul.Koszalinska 15, 60-480 Poznan',120,15,'http://www.strzeszynek.pl')
+insert into sale values (8,110,'ul.Paderewskiego 50b, 62-300 Wrzesnia',115,16,'http://www.tarot.tuttifrutti.pl')
+insert into sale values (9,120,'ul.Lutycka 34, 60-415 Poznan',145,17,'http://www.powozownia.pl/')
+insert into sale values (10,130,'ul.Grunwaldzka 471, 62-064 Plewiska',135,18,'http://www.zacisze.poznan.pl/')
+
+go
+
 
 
 
