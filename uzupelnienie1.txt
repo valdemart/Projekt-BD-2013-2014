@@ -68,6 +68,25 @@ insert into sale values (10,130,'ul.Grunwaldzka 471, 62-064 Plewiska',135,18,'ht
 go
 
 
+insert into orkiestry values (1,'Kames Band',3,513818001,2800,'http://www.kames-band.pl/')
+insert into orkiestry values (2,'Zespol Muzyczny Live',3,697013263,1800,'http://www.zespollive.pl/')
+insert into orkiestry values (3,'Revers',5,691940670,3800,'http://zespol-revers.jimdo.com/')
+insert into orkiestry values (4,'ASPEKT',2/3,603194029,2000,'http://www.aspekt.naszewesele.pl/')
+insert into orkiestry values (5,'Music Show',6,696208037,4000,'http://www.music-show.com.pl/')
+insert into orkiestry values (6,'WEEKEND',4-5,792533111,2800,'https://pl-pl.facebook.com/pages/Zesp%C3%B3%C5%82-muzyczny-WEEKENDGniezno/191688867637668')
+insert into orkiestry values (7,'HARMONY',5,601421797,5000,'http://www.zespolharmony.pl/')
+insert into orkiestry values (8,'KONKRET',3,782486332,2800,'http://www.konkret.konin.pl/')
+insert into orkiestry values (9,'AKORD',4,667998471,3000,'http://www.zespol-akord.pl/')
+insert into orkiestry values (10,'Vega Band',3,604238496,2600,'http://www.vegaband.pl/home.html')
+
+go
+
+insert into fotografowie_i_kamerzysci values (1,1,1,NULL,698860485)
+insert into fotografowie_i_kamerzysci values (2,1,1,NULL,691916068)
+insert into fotografowie_i_kamerzysci values (3,0,1,NULL,514143589)
+insert into fotografowie_i_kamerzysci values (4,1,0,NULL,602376602)
+insert into fotografowie_i_kamerzysci values (5,0,1,NULL,793728305)
+go
 
 
 
